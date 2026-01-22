@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Priyansu Kumar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dlnz6ukow/image/upload/v1769057583/ChatGPT_Image_Jan_22_2026_10_22_43_AM_qn7f5o.png">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dlnz6ukow/image/upload/v1769058117/ChatGPT_Image_Jan_22_2026_10_31_37_AM_xdiebq.png">
 
 - 📖 I’m currently an undergrad at **NIMS University, Rajasthan**
 
